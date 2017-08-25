@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BarcodeWriter</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_format">Format</string>
+    <string name="label_message">Encoded Message</string>
+    <string name="label_alt_text">Human Redable Text</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="formats">
+        <item>PKBarcodeFormatQR</item>
+        <item>PKBarcodeFormatPDF417</item>
+        <item>PKBarcodeFormatAztec</item>
+        <item>PKBarcodeFormatCode128</item>
+    </string-array>
+</resources>
